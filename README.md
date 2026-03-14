@@ -61,3 +61,5 @@ MODEL FILES
 due to large file size,models are stored in google drive.
 Download models here:https://drive.google.com/drive/folders/19LIxM6AH5r0eKcH6ZOJXVyoZvyQFrB0G?usp=sharing
 After downloading,place the .pkl files in the project folder.
+
+Try the application here:https://health-risk-prediction-ygbuyatsvhvzpn9uhntjc8.streamlit.app/

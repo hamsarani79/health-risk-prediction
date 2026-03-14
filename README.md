@@ -1,5 +1,7 @@
 Personalized Health Risk Prediction Platform
 
+Try the application here:https://health-risk-prediction-ygbuyatsvhvzpn9uhntjc8.streamlit.app/
+
 ABOUT THE PROJECT
 Personalized Health Risk Prediction Platform is a Machine Learning powered web platform that predicts health risks before symptoms appear. It helps individuals adopt preventive habits and reduce the likelihood of serious diseases by analyzing their lifestyle and health data.
 

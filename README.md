@@ -1,13 +1,13 @@
-HealthSense AI - Personalized Health Risk Prediction Platform
+Personalized Health Risk Prediction Platform
 
 ABOUT THE PROJECT
-HealthSense AI is a Machine Learning powered web platform that predicts health risks before symptoms appear. It helps individuals adopt preventive habits and reduce the likelihood of serious diseases by analyzing their lifestyle and health data.
+Personalized Health Risk Prediction Platform is a Machine Learning powered web platform that predicts health risks before symptoms appear. It helps individuals adopt preventive habits and reduce the likelihood of serious diseases by analyzing their lifestyle and health data.
 
 PROBLEM STATEMENT
 Many individuals lack tools to understand potential health risks before symptoms appear. Lifestyle factors such as diet, sleep, physical activity, alcohol consumption, and stress significantly affect long-term health but most people cannot interpret their own health data effectively.
 
 OUR SOLUTION
-HealthSense AI collects user health and lifestyle data and uses a Random Forest Classifier to predict the likelihood of 5 major diseases simultaneously. The system provides personalized insights, visual risk scores, and preventive recommendations.
+Health Risk Prediction Platform collects user health and lifestyle data and uses a Random Forest Classifier to predict the likelihood of 5 major diseases simultaneously. The system provides personalized insights, visual risk scores, and preventive recommendations.
 
 FEATURES
 5 Disease Predictions: Heart Disease, Diabetes, Stroke, High Blood Pressure, High Cholesterol
